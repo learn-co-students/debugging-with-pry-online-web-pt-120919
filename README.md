@@ -4,7 +4,7 @@
 
 We'll cover Pry, a type of REPL, and discuss how to install and use it to debug a program. 
 
-## Objectives
+## Objectives        
 
 1. Explain how Pry is a more flexible REPL than IRB. 
 2. Install Pry on your computer. (already installed for IDE users)
